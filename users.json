@@ -1,1 +1,55 @@
-
+[
+    {
+        "username": "18834877423",
+        "password": "$2b$12$7NIIulS9qsK35xn88wG/PuT2/1e1qI5KplfU8Leh6ev6i8X//xaSm",
+        "role": "admin",
+        "created_at": "2025-05-18 20:08:53.743926",
+        "failed_attempts": 0,
+        "devices": [
+            {
+                "device_id": "unknown",
+                "last_login": "2025-05-21 12:49:39.539525",
+                "bind_time": "2025-05-21 12:49:40.200236"
+            },
+            {
+                "device_id": "963966790898",
+                "platform": "Windows-10-10.0.19042-SP0",
+                "login_time": "2025-05-22 21:46:57.056292",
+                "ip": "223.19.156.181"
+            }
+        ],
+        "password_history": [
+            "$2b$12$.RBNn4Nb5zB1wb.lGYyUK.hX8vnh0EEkVaok5a9rLKcrI5Z.dVUj."
+        ],
+        "password_updated": "2025-05-22 21:30:48.361173"
+    },
+    {
+        "username": "1",
+        "password": "$2b$12$QV8x/xuE.CFTmmgKWGkvT.q97saL4gK8BuiaONq1ZLBwYTSW1o2c2",
+        "role": "user",
+        "created_at": "2025-05-18 20:15:21.415676",
+        "failed_attempts": 0,
+        "devices": [
+            {
+                "device_id": "963966790898",
+                "platform": "Windows-10-10.0.19042-SP0",
+                "login_time": "2025-05-22 21:47:23.285097",
+                "ip": "223.19.156.181"
+            }
+        ]
+    },
+    {
+        "username": "2",
+        "password": "$2b$12$QN5CPKtK0xt63AXeJR8J7u4eMMmyUJ0IkjaH5rWeJTSIVHIcSYJSW",
+        "role": "user",
+        "created_at": "2025-05-18 21:36:57.855413",
+        "devices": []
+    },
+    {
+        "username": "3",
+        "password": "$2b$12$xfwzPQD1OfxUMTfTzqm.FOz.FGOreWzROJkZNHGL7g3/Z1qDY2m/a",
+        "role": "user",
+        "created_at": "2025-05-18 21:37:04.079575",
+        "devices": []
+    }
+]
